@@ -1,0 +1,10 @@
+﻿*{margin:0; padding:0;}
+body{line-height:28px; font-size:16px; color:#000; font-family:"微软雅黑","黑体","宋体",Arial;}
+body,html{overflow-x:hidden; }
+input{padding:1px 2px; border-radius: 0px;}
+form{display:inline;}
+img {max-width:300px;border:0;}
+li,ul,ol{ list-style:none;}
+a:link,a:visited {text-decoration:none; color:#004299;}
+a:hover,a:active,a:focus {color:#2263a5; text-decoration:none;}
+

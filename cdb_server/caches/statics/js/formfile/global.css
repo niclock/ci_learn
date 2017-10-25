@@ -1,0 +1,11 @@
+.formfile-inputbox input.form-control{position:static;border-radius:3px 0 0 3px;padding:6px 5px!important;height:22px;border:1px solid #DBDBDB;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;vertical-align:bottom;text-align:left;}
+.formfile-inputbox span.input-group-btn{position:static;}
+.formfile-inputbox button.btn-default{position:static;margin-left:-1px;padding:0 10px;border-radius:0 3px 3px 0;border:1px solid #DBDBDB;background-color:#fff;color:#777;height:36px;font-size:14px;vertical-align:bottom;display:inline-block;}
+.formfile-inputbox button.btn-default:hover{background-color:#dcdcdc;border:1px solid #DBDBDB}
+.formfile-inputbox img.img-thumbnail{display:inline-block;width:auto;height:auto;max-width:200px;max-height:300px;padding:4px;background-color:#fff;border:1px solid #ddd;border-radius:3px;-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
+.formfile-inputbox em.close{float:none;padding-left:3px;vertical-align:top;font-style:normal;font-size:18px;font-weight:700;line-height:1;color:#000;text-shadow:0 1px 0 #fff;filter:alpha(opacity=20);opacity:.2}
+.formfile-inputbox em.close:focus,.formfile-inputbox em.close:hover{color:#000;text-decoration:none;cursor:pointer;filter:alpha(opacity=50);opacity:.5}
+.formfile-inputbox .inimem{display:inline-block;margin-right:8px;}
+.formfile-inputbox .inimem dl{display:table;}
+.formfile-inputbox .inimem dl dd{display:table-cell;}
+.formfile-inputbox .inimem dl dd a{text-decoration:underline;width:120px;height:80px;display:inline-block;background-color:#fff;border:1px solid #ddd;border-radius:3px;background-position:center;background-repeat:no-repeat;background-size:cover;}
